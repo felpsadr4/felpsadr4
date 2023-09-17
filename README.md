@@ -1,5 +1,5 @@
 <h1 align="center">🌐 Felps Web Developer 💻</h1>
-<p align="center">Existem duas maneiras de escrever programas sem erros. Só a terceira funciona.</p>
+<p align="center">Existem duas maneiras de programar sem erros. Só a terceira funciona.</p>
 
 <p align="center">
   <a href="https://www.instagram.com/on.sites_/">
